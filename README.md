@@ -1,7 +1,7 @@
 # DapperCrudTutorial
 ## Here's a summary of the steps to create an API with Dapper:
 
-Set up a new ASP.NET Web API project.
+## 1. Set up a new ASP.NET Web API project.
 Install the Dapper NuGet package.
 Configure the database connection in the project's configuration file.
 Create a model class that represents the data you'll be working with.
