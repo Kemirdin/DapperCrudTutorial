@@ -4,7 +4,7 @@
 ## 1. Set up a new ASP.NET Web API project.
 ## 2.Install the Dapper NuGet package.
 ## 3.Configure the database connection in the project's configuration file.
-Create a model class that represents the data you'll be working with.
+## 4.Create a model class that represents the data you'll be working with.
 Create a class that will serve as the database context and handle the connection to the database.
 Implement CRUD operations using Dapper's query methods.
 Create API endpoints (controller actions) that call the appropriate methods in the database context class.
