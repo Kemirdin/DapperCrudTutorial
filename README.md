@@ -6,7 +6,7 @@
 ## 3.Configure the database connection in the project's configuration file.
 ## 4.Create a model class that represents the data you'll be working with.
 ## 5.reate a class that will serve as the database context and handle the connection to the database.
-Implement CRUD operations using Dapper's query methods.
+## 6.Implement CRUD operations using Dapper's query methods.
 Create API endpoints (controller actions) that call the appropriate methods in the database context class.
 Test your API using tools like Postman or curl.
 Optional: Add additional features such as input validation, authentication, and authorization.
