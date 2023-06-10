@@ -10,4 +10,4 @@
 ## 7.Create API endpoints (controller actions) that call the appropriate methods in the database context class.
 ## 8.Test your API using tools like Postman or curl.
 ## 9.Optional: Add additional features such as input validation, authentication, and authorization.
-These steps provide a high-level overview of the process, and you can dive into each step with more detail as you start working on your API.
+## 10.These steps provide a high-level overview of the process, and you can dive into each step with more detail as you start working on your API.
